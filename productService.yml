@@ -1,2 +1,3 @@
-ConnectionStrings:
+Databases:
   SqlSeverConnection: "Server=.;Database=E-CommerceProductService;Integrated Security=true;TrustServerCertificate=True"
+PropTest: "Hello from ConfigServer"
