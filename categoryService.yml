@@ -1,2 +1,2 @@
-ConnectionStrings:
+Databases:
   SqlSeverConnection: "Server=.;Database=E-CommerceCategoryService;Integrated Security=true;TrustServerCertificate=True"
